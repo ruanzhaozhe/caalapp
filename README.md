@@ -1,1 +1,2 @@
-# develop an app for biologist to calculate growth curve without coding
+# caal-app is a user-friendly software, developed for biologists to estimate growth parameters without coding.
+
